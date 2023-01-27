@@ -34,3 +34,11 @@ These instructions will get you a copy of the project up and running on your loc
 * JavaScript
 * HTML
 * CSS
+
+# Demo
+
+<p align="center"><img align="center" alt="image" src="https://github.com/TyRoopam9599/JS_TodoListApp/blob/main/Demo/Screenshot%20from%202023-01-27%2022-39-34.png" width="300" height="250" /></p><br>
+
+<p align="center"><img align="center" alt="gif" src="https://github.com/TyRoopam9599/JS_TodoListApp/blob/main/Demo/Screenshot%20from%202023-01-27%2022-48-47.png" width="300" height="250" /></p><br>
+
+<p align="center"><img align="center" alt="gif" src="https://github.com/TyRoopam9599/JS_TodoListApp/blob/main/Demo/Screenshot%20from%202023-01-27%2022-49-04.png" width="300" height="250" /></p>
